@@ -54,7 +54,7 @@ def parke_error_grid(ref_values, pred_values, title_string):
   plt.plot([35, 125], [90, 550], '--', c='black')
 
   # Category E
-  # uper only 
+  # upper only 
   plt.plot([0, 35], [200, 200], '--', c='black')
   plt.plot([35, 50], [200, 550], '--', c='black')
 
